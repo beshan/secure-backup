@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "cargo build",
+    "test": "cargo test",
+    "format": "cargo fmt",
+    "clean": "cargo clean"
+  }
+}
